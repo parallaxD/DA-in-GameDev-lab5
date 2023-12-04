@@ -62,7 +62,8 @@
 Агента можно обучить двигаться по определенному маршруту, чтобы симулировать жизнь неигрового персонажа. Например, в игре Kingdom Come: Deliverance NPC передвигаются и занимаются чем-то связанным с их дейстельностью в игре. К примеру, торговец сначала торгует в лавке, затем идет в бар за выпивкой, затем домой.
 
 
-![image](https://github.com/parallaxD/DA-in-GameDev-lab5/assets/81700733/ee58595f-709c-447a-9101-43cd5cb26bd4)
+![image](https://github.com/parallaxD/DA-in-GameDev-lab5/assets/81700733/7c5b736b-c5cf-4e1e-bb6f-039bb7c0ed6f)
+
 Конрад Хаген, торговец в Ратае. Kingdom Come: Deliverance.
 
 
