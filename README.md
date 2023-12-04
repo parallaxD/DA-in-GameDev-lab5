@@ -63,7 +63,6 @@
 
 
 ![image](https://github.com/parallaxD/DA-in-GameDev-lab5/assets/81700733/7c5b736b-c5cf-4e1e-bb6f-039bb7c0ed6f)
-
 Конрад Хаген, торговец в Ратае. Kingdom Come: Deliverance.
 
 
